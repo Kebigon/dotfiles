@@ -1,0 +1,24 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+	1) pamixer -t ;;
+	4) pamixer -i 5 ;;
+	5) pamixer -d 5 ;;
+esac
+
+# Wait for the change to be taken into account
+sleep 2e-2
+
+[ $(pamixer --get-mute) = true ] && echo 🔇 && exit
+
+volume=$(pamixer --get-volume)
+
+if [ "$volume" -gt "70" ]; then
+	icon="🔊"
+elif [ "$volume" -lt "30" ]; then
+	icon="🔈"
+else
+	icon="🔉"
+fi
+
+echo $icon$volume
