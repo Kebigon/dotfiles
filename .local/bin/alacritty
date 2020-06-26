@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Uncomment for computer without GLSL 3.30 support
+# see https://github.com/alacritty/alacritty/issues/128
+#env LIBGL_ALWAYS_SOFTWARE=1 \
+/usr/bin/alacritty
