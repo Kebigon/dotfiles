@@ -1,0 +1,92 @@
+"query:Unread:unread = \"yes\""
+"query:Unread Japanese:unread = \"yes\" and tags # \"Japanese\""
+"query:Unread Software:unread = \"yes\" and tags # \"Software\""
+
+# Blogs
+https://hack.org/mc/blog/index.xml
+https://medium.com/feed/@ian.barwise                                      # Stories by Ian Barwise on Medium
+https://blog.logrocket.com/tag/typescript/feed/                           Software # Typescript
+https://blog.logrocket.com/tag/react/feed/                                Software # React
+https://write.as/thenewoil/feed/                                        # The New Oil
+
+# Podcasts
+http://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss # The Privacy, Security, & OSINT Show
+https://open.audio/api/v1/channels/thenewoilpod/rss                     # The New Oil
+https://feed.podbean.com/enemyofsurveillance/feed.xml                   # Enemy of the [Surveillance] State
+https://feeds.buzzsprout.com/1263722.rss                                # Unfettered Freedom
+https://feeds.simplecast.com/rZ0cYk12                                   # Your Undivided Attention
+
+# Softwares
+https://github.com/beemdevelopment/Aegis/tags.atom                        Software # Aegis
+https://github.com/caddyserver/caddy/tags.atom                            Software # caddy
+https://github.com/metrodroid/metrodroid/tags.atom                        Software # metrodroid
+https://github.com/twbs/bootstrap/tags.atom                               Software # bootstrap
+https://github.com/veracrypt/VeraCrypt/tags.atom                          Software # VeraCrypt
+
+# Peertube
+https://peertube.sunknudsen.com/feeds/videos.xml?accountId=3              # Sun Knudsen
+https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3                 # Luke Smith
+https://tube.privacytools.io/feeds/videos.xml?accountId=342               # Techlore
+https://thinkerview.video/feeds/videos.xml                                # Thinkerview
+
+# Youtube via invidious
+https://invidious.kavin.rocks/feed/channel/UCSX0NhNdBA-ZnEFkYFzdw4A            Japanese # Dogen
+https://invidious.kavin.rocks/feed/channel/UC4arQnli3ffEuCSrSgAD_Ug            Japanese # Osho Taigu’s Heart of Buddha
+https://invidious.kavin.rocks/feed/channel/UC1kk8pmQ3Rg5DZtwOrpFDMA            Japanese # しょっぴん / SHOPPIN
+https://invidious.kavin.rocks/feed/channel/UC59gHK7pW5W245V6ES9jQEQ            Japanese # コジコジのオタク文化 情報局
+https://invidious.kavin.rocks/feed/channel/UCWGl1JQoX90LM8hRuRbdFDA            Japanese # 打首獄門同好会
+https://invidious.kavin.rocks/feed/channel/UC59ZURfw529EQEE1gVUMSlw            Japanese # Learn Japanese with Manga
+https://invidious.kavin.rocks/feed/channel/UCkRRvXs-Msk8elFSpMrhRRw            Japanese # kuro-obi world
+https://invidious.kavin.rocks/feed/channel/UCkVLb5hTwgr1wrF-CSbfmqA            Japanese # hijiQuish channel
+https://invidious.kavin.rocks/feed/channel/UC95PHJuPANJAg8btjUpMwvA            Japanese # からわかラボ
+https://invidious.kavin.rocks/feed/channel/UC8TGHIsPBfnQXK39qXpPKZg            Japanese # あらいch★日本語勉強★
+https://invidious.kavin.rocks/feed/channel/UC3C3YOGFjn7Pq3lOCeUFHfg            Japanese # 花江夏樹
+https://invidious.kavin.rocks/feed/channel/UCcLwh0oGeEeV73UW5zglzig            Japanese # 日本語勉強チャンネル
+https://invidious.kavin.rocks/feed/channel/UCciXXqGRO99KPhhrcaRfG-w            Japanese # BritVsJapan
+https://invidious.kavin.rocks/feed/channel/UCpf4BknRWAjb_oYIHoMDGVg            Japanese # Matt vs. Japan
+https://invidious.kavin.rocks/feed/channel/UCQFe3x4WAgm7joN5daMm5Ew            Japanese # Yoga MIA
+https://invidious.kavin.rocks/feed/playlist/PL5dP0ylcT42dJXN_5KJECJ8cI9hK690_e Japanese # IGN Japan: 【毎週火曜更新】しゃべりすぎGAMER
+https://invidious.kavin.rocks/feed/playlist/PL5dP0ylcT42fHfLjlooJwabm4XzdOCNcN Japanese # IGN Japan: 【毎週水曜・金曜更新】RTN（リアル・タイム・ニュース）
+https://invidious.kavin.rocks/feed/playlist/PL5dP0ylcT42fuRRKW8Iho4XAPx3wEiaOJ Japanese # IGN Japan: 【毎週木曜更新】銀幕にポップコーン
+
+https://invidious.kavin.rocks/feed/channel/UCDr2z-N5gwbG9I7MO4ImcMA            # Fabrice Epelboin
+https://invidious.kavin.rocks/feed/channel/UCsXVk37bltHxD1rDPwtNM8Q            # Kurzgesagt – In a Nutshell
+https://invidious.kavin.rocks/feed/channel/UC5eOLQO5VUEFJukNg9cl5jg            # Histoire Brève
+https://invidious.kavin.rocks/feed/channel/UC5UAwBUum7CPN5buc-_N1Fw            # The Linux Experiment
+https://invidious.kavin.rocks/feed/channel/UC6107grRI4m0o2-emgoDnAA            # SmarterEveryDay
+https://invidious.kavin.rocks/feed/channel/UC7sXGI8p8PvKosLWagkK9wQ            # Heu?reka
+https://invidious.kavin.rocks/feed/channel/UC7YOGHUfC1Tb6E4pudI9STA            # Mental Outlaw
+https://invidious.kavin.rocks/feed/channel/UCaNlbnghtwlsGF-KzAFThqA            # ScienceEtonnante
+https://invidious.kavin.rocks/feed/channel/UCBa659QWEk1AI4Tg--mrJ2A            # Tom Scott
+https://invidious.kavin.rocks/feed/channel/UCbq4WwLfbhRxvyVYOTYU25g            # UnDropDansLaMare
+https://invidious.kavin.rocks/feed/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q            # e-penser
+https://invidious.kavin.rocks/feed/channel/UCEp20NgOZHmgWdbQdHSxgjw            # This Does Not Compute
+https://invidious.kavin.rocks/feed/channel/UCeR8BYZS7IHYjk_9Mh5JgkA            # Scilabus
+https://invidious.kavin.rocks/feed/channel/UCGeFgMJfWclTWuPw8Ok5FUQ            # horizon-gull
+https://invidious.kavin.rocks/feed/channel/UCh2YBKhYIy-_LtfCIn2Jycg            # Mr. Sam - Point d'interrogation
+https://invidious.kavin.rocks/feed/channel/UCiaZZmZwBjKrcRv7aerHuyA            # KEYVAN KHOJANDI
+https://invidious.kavin.rocks/feed/channel/UC_i-uMpN1lEyuoUGDq-dajQ            # Le Raptor
+https://invidious.kavin.rocks/feed/channel/UCJ24N4O0bP7LGLBDvye7oCA            # Matt D'Avella
+https://invidious.kavin.rocks/feed/channel/UCjFaPUcJU1vwk193mnW_w1w            # Modern Vintage Gamer
+https://invidious.kavin.rocks/feed/channel/UCjr2bPAyPV7t35MvcgT3W8Q            # The Hated One
+https://invidious.kavin.rocks/feed/channel/UCld68syR8Wi-GY_n4CaoJGA            # Brodie Robertson
+https://invidious.kavin.rocks/feed/channel/UCMFcMhePnH4onVHt2-ItPZw            # Hygiène Mentale
+https://invidious.kavin.rocks/feed/channel/UCnOuKKfBkvt2VsXcYSr8W2Q            # Trxns
+https://invidious.kavin.rocks/feed/channel/UCOchT7ZJ4TXe3stdLW1Sfxw            # Dans Ton Corps
+https://invidious.kavin.rocks/feed/channel/UCofQxJWd4qkqc7ZgaLkZfcw            # Linguisticae
+https://invidious.kavin.rocks/feed/channel/UCOuIgj0CYCXCvjWywjDbauw            # Chat Sceptique
+https://invidious.kavin.rocks/feed/channel/UCP46_MXP_WG_auH88FnfS1A            # Nota Bene
+https://invidious.kavin.rocks/feed/channel/UCq-8pBMM3I40QlrhM9ExXJQ            # La Tronche en Biais
+https://invidious.kavin.rocks/feed/channel/UCqYPhGiB9tkShZorfgcL2lA            # What I've Learned
+https://invidious.kavin.rocks/feed/channel/UCsnGwSIHyoYN0kiINAGUKxg            # Wolfgang's Channel
+https://invidious.kavin.rocks/feed/channel/UCt8ctlakIflnSG0ebFps7cw            # Histony
+https://invidious.kavin.rocks/feed/channel/UCtqICqGbPSbTN09K1_7VZ3Q            # DirtyBiology
+https://invidious.kavin.rocks/feed/channel/UCtyONQLs6htK-wWiCAk4wVw            # le Stagirite
+https://invidious.kavin.rocks/feed/channel/UCU0FhLr6fr7U9GOn6OiQHpQ            # Officiel DEFAKATOR
+https://invidious.kavin.rocks/feed/channel/UCu34Tq5qMR-FiTYwLyy9U6w            # Webosaures
+https://invidious.kavin.rocks/feed/channel/UCWYxQt9Y3y2CDzXLf2K7xCA            # Lanterne Cosmique
+https://invidious.kavin.rocks/feed/channel/UCyJDHgrsUKuWLe05GvC2lng            # Stupid Economics
+https://invidious.kavin.rocks/feed/channel/UC_yP2DpIgs5Y1uWC0T03Chw            # Joueur Du Grenier
+https://invidious.kavin.rocks/feed/channel/UCZxLew-WXWm5dhRZBgEFl-Q            # Le Vortex
+https://invidious.kavin.rocks/feed/playlist/PL43OynbWaTMJ1JjOc-7NrjgHaCu1Uz0US # France Inter: Constance
+https://invidious.kavin.rocks/feed/playlist/PL43OynbWaTMJGbaP62OC7UUDqjdicUEFy # France Inter: Pablo Mira
