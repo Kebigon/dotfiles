@@ -11,5 +11,5 @@ class Config(object):
     kanjiDstField = ["Kanji"]
 
     wordFreqList = "10kData.txt"
-    kanjiList = "HeisigKeywords.txt"
+    kanjiList = "HeisigKeywords_French.txt"
     japaneseSupportPluginFolderName="3918629684"
