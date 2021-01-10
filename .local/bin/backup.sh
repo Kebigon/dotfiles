@@ -28,7 +28,7 @@ done < "$HOME/Unison/Documents/comp/github_repos"
 # 7zip the result
 #
 
-7z a -t7z -mx=9 -myx=9 $backup_archive ~/Unison $git_directory
+7z a -t7z -mx=9 -myx=9 $backup_archive $git_directory
 
 #
 # Remove temporary files
