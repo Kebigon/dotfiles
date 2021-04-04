@@ -4,4 +4,4 @@
 command -v streamlink >/dev/null 2>&1 || { echo "Please install streamlink"; exit 1; }
 command -v mpv >/dev/null 2>&1 || { echo "Please install mpv"; exit 1; }
 
-streamlink --player mpv --twitch-disable-ads twitch.tv/ostpolitik 160p
+streamlink --player mpv --twitch-disable-ads twitch.tv/ostpolitik audio_only
