@@ -1929,7 +1929,7 @@
 審	audition
 翻	voltiger
 藩	clan
-毛	1932 pilosité
+毛	pilosité
 耗	décroître
 尾	queue
 宅	domicile
